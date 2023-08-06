@@ -10,6 +10,6 @@ from PCA and ICA methods yield lower error rates compared to the use of original
 clustering algorithm.
 
 ![Machine Learning Model](https://github.com/GayanMeerigama/Comparative-Analysis-of-Dimensional-Reduction-Techniques-for-k-Means-Clustering-in-High-Dimensional/blob/main/Image%208-6-23%20at%208.41%20AM.jpg)]
-![Machine Learning Model]()]
+![Machine Learning Model](https://github.com/GayanMeerigama/Comparative-Analysis-of-Dimensional-Reduction-Techniques-for-k-Means-Clustering-in-High-Dimensional/blob/main/Image%208-6-23%20at%208.42%20AM.jpg)]
 ![Machine Learning Model]()]
 ![Machine Learning Model]()]
