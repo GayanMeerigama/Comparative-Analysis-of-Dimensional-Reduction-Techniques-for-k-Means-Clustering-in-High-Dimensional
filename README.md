@@ -9,7 +9,7 @@ demonstrated by considering principal component analysis (PCA), independent comp
 from PCA and ICA methods yield lower error rates compared to the use of original dimensions when clustering text data with k-means 
 clustering algorithm.
 
-![Machine Learning Model](https://github.com/GayanMeerigama/Comparative-Analysis-of-Dimensional-Reduction-Techniques-for-k-Means-Clustering-in-High-Dimensional/blob/main/Image%208-6-23%20at%208.41%20AM.jpg)]
-![Machine Learning Model](https://github.com/GayanMeerigama/Comparative-Analysis-of-Dimensional-Reduction-Techniques-for-k-Means-Clustering-in-High-Dimensional/blob/main/Image%208-6-23%20at%208.42%20AM.jpg)]
-![Machine Learning Model](https://github.com/GayanMeerigama/Comparative-Analysis-of-Dimensional-Reduction-Techniques-for-k-Means-Clustering-in-High-Dimensional/blob/main/Image%208-6-23%20at%208.416%20AM.jpg)]
-![Machine Learning Model]()]
+![Machine Learning Model1](https://github.com/GayanMeerigama/Comparative-Analysis-of-Dimensional-Reduction-Techniques-for-k-Means-Clustering-in-High-Dimensional/blob/main/Image%208-6-23%20at%208.41%20AM.jpg)]
+![Machine Learning Model2](https://github.com/GayanMeerigama/Comparative-Analysis-of-Dimensional-Reduction-Techniques-for-k-Means-Clustering-in-High-Dimensional/blob/main/Image%208-6-23%20at%208.42%20AM.jpg)]
+![Machine Learning Model3](https://github.com/GayanMeerigama/Comparative-Analysis-of-Dimensional-Reduction-Techniques-for-k-Means-Clustering-in-High-Dimensional/blob/main/Image%208-6-23%20at%208.416%20AM.jpg)]
+![Machine Learning Model4](https://github.com/GayanMeerigama/Comparative-Analysis-of-Dimensional-Reduction-Techniques-for-k-Means-Clustering-in-High-Dimensional/blob/main/Image%208-6-23%20at%208.425%20AM.jpg)]
