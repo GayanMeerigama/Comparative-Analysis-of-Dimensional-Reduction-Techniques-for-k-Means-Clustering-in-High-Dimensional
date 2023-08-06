@@ -8,3 +8,8 @@ demonstrated by considering principal component analysis (PCA), independent comp
 (in this method,first apply PCA then ICA) as dimensionality reduction methods for k-means clustering algorithm. The observed results 
 from PCA and ICA methods yield lower error rates compared to the use of original dimensions when clustering text data with k-means 
 clustering algorithm.
+
+![Machine Learning Model]()]
+![Machine Learning Model]()]
+![Machine Learning Model]()]
+![Machine Learning Model]()]
